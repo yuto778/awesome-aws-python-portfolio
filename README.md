@@ -1,7 +1,5 @@
 # awesome-aws-python-portfolio
 
-# awesome-aws-python-portfolio
-
 > **Portfolio: Python × AWS (Lambda, S3, CSV→JSON, Text Processing)**
 
 ## 📝 プロジェクト概要
